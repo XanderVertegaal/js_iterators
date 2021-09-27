@@ -31,4 +31,4 @@ for (let item in suki) {
     console.log(item + ': ' + suki[item]);
 }
 
-// We printen nu weliswaar alle properties en values naar de console, maar we zijn niet echt aan het itereren.
+// We printen nu weliswaar alle properties en values naar de console, dus in zekere zin zijn we aan het itereren.
